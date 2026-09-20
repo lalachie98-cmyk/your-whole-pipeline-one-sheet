@@ -1,0 +1,12 @@
+system/.env
+.env
+.env.*
+*.xlsx
+*.gsheet
+*service-account*.json
+credentials.json
+**/__pycache__/
+.DS_Store
+Thumbs.db
+product/
+system/
